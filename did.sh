@@ -1,4 +1,4 @@
-wget2 -q -c -O "$1" "$2"; \
+wget -q -c -O "$1" "$2"; \
 echo "$1 downloaded"; \
 echo "$1 uploading pixel"; \
 #curl -T "$1" -u :8d92bb15-fba1-45d3-9a48-8a754ff11a68 https://pixeldrain.com/api/file/; \
