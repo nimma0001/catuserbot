@@ -10,7 +10,7 @@ RUN apt-get -y update
 RUN apt-get -y upgrade
 # Install requirements
 RUN pip3 install --no-cache-dir -r requirements.txt
-RUN apt-get -qq install -y --no-install-recommends rclone>
+RUN apt-get -qq install -y --no-install-recommends rclone jq
 ENV DEBIAN_FRONTEND=noninteractive
 ENV PATH="/home/userbot/bin:$PATH"
 CMD ["python3","-m","userbot"]
