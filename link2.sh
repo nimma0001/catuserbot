@@ -7,6 +7,10 @@ echo Rocklink Link👇👇👇
 echo 480p👉: `cat out.txt`
 echo 720p👉: `cat out1.txt`
 echo 1080p👉: `cat out2.txt`
-echo 
-echo HOW TO DOWNLOAD : https://t.me/screenshot18/2032
-rm *json *txt
+echo ━━━━━━━━━━━━━━━━━
+echo 💁‍♀️How To Download👇
+echo 👉 https://t.me/screenshot18/2032
+echo ━━━━━━━━━━━━━━━━━
+echo 🔥𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔥
+echo 👉https://t.me/+LzS-bPbv5vI0MTc1
+rm *txt
