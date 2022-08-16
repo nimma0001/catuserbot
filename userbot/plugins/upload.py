@@ -114,9 +114,8 @@ async def upload(path, event, udir_event, catflag=None):  # sourcery no-metrics
             file=uploaded,
             mime_type=mime_type,
             attributes=attributes,
-            force_file=catflag,
-            thumb=await event.client.upload_file(thumb) if thumb else None,
-        )
+            force_file=true,
+         )
         await event.client.send_file(
             event.chat_id,
             file=media,
