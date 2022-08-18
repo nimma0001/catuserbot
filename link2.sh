@@ -12,5 +12,5 @@ echo 💁‍♀️How To Download👇
 echo 👉 https://t.me/screenshot18/2032
 echo ━━━━━━━━━━━━━━━━━
 echo 🔥𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔥
-echo 👉https://t.me/+LzS-bPbv5vI0MTc1
+echo 👉 https://t.me/+CY8KndRYiZM1NGI1
 rm *txt
