@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/nimma0001/catuserbot /ro>
+RUN git clone https://github.com/nimma0001/catuserbot /root/userbot
 #working directory
 WORKDIR /root/userbot
 RUN mkdir -p /tmp
