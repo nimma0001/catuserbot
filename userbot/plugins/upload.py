@@ -22,7 +22,7 @@ from ..helpers.utils import reply_id
 plugin_category = "misc"
 
 PATH = os.path.join("./temp", "temp_vid.mp4")
-thumb_image_path = os.path.join(Config.TMP_DOWNLOAD_DIRECTORY, "thumb_image.jpg")
+thumb_image_path = None
 plugin_category = "misc"
 downloads = pathlib.Path("./downloads/").absolute()
 NAME = "untitled"
