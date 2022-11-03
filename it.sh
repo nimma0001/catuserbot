@@ -10,6 +10,6 @@ echo "$1 uploading pixel"; \
 curl -T "$1" -u :${api[$rand]} https://pixeldrain.com/api/file/; \
 echo "$1 uploaded pixel drain"; \
 echo "$1 UPLOADING onedrive"; \
-rclone copy /app/catuserbot-master/"$1" one:Public/Oct/"$2"; \
+rclone copy /app/catuserbot-master/"$1" one:Public/Nov/"$2"; \
 echo "$1 uploaded onedrive"; \
 echo "script complete"
